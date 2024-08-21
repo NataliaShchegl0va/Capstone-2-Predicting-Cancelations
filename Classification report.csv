@@ -1,0 +1,10 @@
+Classification report,,,,,
+Model,accuracy,"precision
+(for label 1)","recall
+(for label 1)","f1-score
+(for label 1)","support
+(for label 1)"
+Logistic regression,0.81,0.42,0.94,0.58,5077
+KNN Classifier,0.8,0.4,0.84,0.55,5077
+Decision Tree,0.76,0.36,0.98,0.53,5077
+Random Forest,0.91,0.77,0.55,0.64,5077
